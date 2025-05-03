@@ -1,6 +1,6 @@
 # ⚡ BluSmart ML Project: Powering India’s EV Rides with Predictive Intelligence ⚡
 
-[![BluSmart](https://static.thearcweb.com/images/PROD/PROD-1726cf5e-1636-4240-b1ff-cfab53bf6457.png)
+![BluSmart](https://static.thearcweb.com/images/PROD/PROD-1726cf5e-1636-4240-b1ff-cfab53bf6457.png)
 
 This repository showcases my latest machine learning project with BluSmart, where data science was leveraged to optimize electric vehicle (EV) ride operations, forecast demand, and ensure sustainable, data-driven urban mobility in India.
 
